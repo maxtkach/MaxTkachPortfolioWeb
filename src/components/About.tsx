@@ -103,7 +103,7 @@ const About = () => {
         {/* Фоновое фото */}
         <div className="absolute inset-0 opacity-90">
           <Image
-            src="/me.jpg"
+            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/me.jpg`}
             alt="Максим Ткач"
             fill
             className="object-cover object-center"

@@ -73,7 +73,7 @@ const ContactEn = () => {
             >
               <div className="relative w-10 h-10 sm:w-12 sm:h-12 group-hover:scale-110 transition-transform duration-300">
                 <Image 
-                  src="/tg.png" 
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/tg.png`} 
                   alt="Telegram" 
                   fill
                   className="object-contain"
@@ -94,7 +94,7 @@ const ContactEn = () => {
             >
               <div className="relative w-10 h-10 sm:w-12 sm:h-12 group-hover:scale-110 transition-transform duration-300">
                 <Image 
-                  src="/mail.png" 
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/mail.png`} 
                   alt="Email" 
                   fill
                   className="object-contain invert"
@@ -117,7 +117,7 @@ const ContactEn = () => {
             >
               <div className="relative w-10 h-10 sm:w-12 sm:h-12 group-hover:scale-110 transition-transform duration-300">
                 <Image 
-                  src="/github.png" 
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/github.png`} 
                   alt="GitHub" 
                   fill
                   className="object-contain invert"
