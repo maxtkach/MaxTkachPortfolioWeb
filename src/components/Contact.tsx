@@ -74,7 +74,7 @@ const Contact = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-lg sm:text-xl font-medium text-white/90 group-hover:text-purple-400 transition-colors">Telegram</span>
-                <span className="text-sm sm:text-base text-white/60 group-hover:text-white/80 transition-colors">@maxtkach</span>
+                <span className="text-sm sm:text-base text-white/60 group-hover:text-white/80 transition-colors">@maxtkach44</span>
               </div>
             </motion.a>
             
