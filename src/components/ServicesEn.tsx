@@ -30,18 +30,6 @@ const services = [
     duration: "5-10 days"
   },
   {
-    title: "Design and Development",
-    price: "from $150",
-    description: "I will implement a website based on your design (Figma) or create a stylish, clean UI from scratch",
-    features: [
-      "Working with Figma designs",
-      "UI creation from scratch",
-      "Tailwind CSS",
-      "Using AI tools",
-      "Clean and modern code"
-    ]
-  },
-  {
     title: "Support",
     price: "from $20/hour",
     description: "Content updates, speed improvements, adaptation to new needs",
