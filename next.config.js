@@ -2,6 +2,7 @@
 const nextConfig = {
   output: 'export',
   basePath: '/MaxTkachPortfolioWeb',
+  assetPrefix: '/MaxTkachPortfolioWeb/',
   images: {
     unoptimized: true,
   },
