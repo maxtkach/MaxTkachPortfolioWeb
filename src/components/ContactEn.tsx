@@ -63,7 +63,7 @@ const ContactEn = () => {
             variants={containerVariants}
           >
             <motion.a 
-              href="https://t.me/maxtkach"
+              href="https://t.me/maxtkach44"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-4 sm:gap-6 p-4 sm:p-6 rounded-xl bg-white/5 hover:bg-white/10 transition-all duration-300 border border-white/10 backdrop-blur-sm"
@@ -81,7 +81,7 @@ const ContactEn = () => {
               </div>
               <div className="flex flex-col">
                 <span className="text-lg sm:text-xl font-medium text-white/90 group-hover:text-purple-400 transition-colors">Telegram</span>
-                <span className="text-sm sm:text-base text-white/60 group-hover:text-white/80 transition-colors">@maxtkach</span>
+                <span className="text-sm sm:text-base text-white/60 group-hover:text-white/80 transition-colors">@maxtkach44</span>
               </div>
             </motion.a>
             
