@@ -75,7 +75,7 @@ const AboutEn = () => {
         {/* Фоновое фото */}
         <div className="absolute inset-0 opacity-90">
           <Image
-            src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/me.jpg`}
+            src={`/me.jpg`}
             alt="Max Tkach"
             fill
             className="object-cover object-center"

@@ -123,7 +123,7 @@ const Projects = () => {
             >
               <div className="relative h-48 sm:h-56 lg:h-64 overflow-hidden">
                 <Image
-                  src={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/${project.image}`}
+                  src={`${project.image}`}
                   alt={project.title}
                   fill
                   className="object-cover transition-transform duration-500 group-hover:scale-110"

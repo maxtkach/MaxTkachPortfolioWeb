@@ -7,7 +7,7 @@
 @layer base {
   
   html {
-    cursor: url('/MaxTkachPortfolioWeb/cursor.png'), auto !important;
+    cursor: url('cursor.png'), auto !important;
   }
   body {
     @apply bg-black text-white;
